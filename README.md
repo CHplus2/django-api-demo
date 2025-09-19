@@ -48,23 +48,20 @@ A simple web application demonstrating a Django REST API backend with a SQLite d
    pip install -r requirements.txt
    ```
 
-4. **Configure MySQL database**
-   Update `myproject/settings.py` with your database name, user, and password.
-
-5. **Run migrations**
+4. **Run migrations**
 
    ```bash
    python manage.py makemigrations
    python manage.py migrate
    ```
 
-6. **Start the development server**
+5. **Start the development server**
 
    ```bash
    python manage.py runserver
    ```
 
-7. **Open in browser**
+6. **Open in browser**
    Visit `http://127.0.0.1:8000/` to use the contact form.
 
 ## Usage
