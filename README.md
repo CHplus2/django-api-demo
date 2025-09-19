@@ -5,7 +5,6 @@ A simple web application demonstrating a Django REST API backend with a SQLite d
 ## Features
 
 - Django REST Framework API for creating, listing, and deleting contacts
-- SQLite database integration
 - Plain HTML/JavaScript frontend using `fetch` to interact with the API
 - Fully functional CRUD operations for learning purposes
 
@@ -14,7 +13,6 @@ A simple web application demonstrating a Django REST API backend with a SQLite d
 - Python 3.x
 - Django 4.x
 - Django REST Framework
-- SQLite
 - HTML / JavaScript
 
 ## Installation & Running
@@ -77,7 +75,6 @@ A simple web application demonstrating a Django REST API backend with a SQLite d
 ## What I Learned
 
 * Setting up a Django REST Framework project
-* Connecting Django with SQLite
 * Building a simple frontend that consumes a JSON API
 * CRUD operations and handling POST requests in Django
 
