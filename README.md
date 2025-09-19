@@ -1,6 +1,6 @@
 # Django REST Contact Form
 
-A simple web application demonstrating a Django REST API backend with a SQLite database and a basic HTML/JavaScript frontend. Users can submit contact messages through the form, which are stored in the database and displayed in real time.
+A simple web application demonstrating a Django REST API backend and a basic HTML/JavaScript frontend. Users can submit contact messages through the form, which are stored in the database and displayed in real time.
 
 ## Features
 
