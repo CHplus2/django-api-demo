@@ -1,11 +1,11 @@
 # Django REST Contact Form
 
-A simple web application demonstrating a Django REST API backend with a MySQL database and a basic HTML/JavaScript frontend. Users can submit contact messages through the form, which are stored in the database and displayed in real time.
+A simple web application demonstrating a Django REST API backend with a SQLite database and a basic HTML/JavaScript frontend. Users can submit contact messages through the form, which are stored in the database and displayed in real time.
 
 ## Features
 
 - Django REST Framework API for creating, listing, and deleting contacts
-- MySQL database integration
+- SQLite database integration
 - Plain HTML/JavaScript frontend using `fetch` to interact with the API
 - Fully functional CRUD operations for learning purposes
 
@@ -14,7 +14,7 @@ A simple web application demonstrating a Django REST API backend with a MySQL da
 - Python 3.x
 - Django 4.x
 - Django REST Framework
-- MySQL
+- SQLite
 - HTML / JavaScript
 
 ## Installation & Running
@@ -80,7 +80,7 @@ A simple web application demonstrating a Django REST API backend with a MySQL da
 ## What I Learned
 
 * Setting up a Django REST Framework project
-* Connecting Django with MySQL
+* Connecting Django with SQLite
 * Building a simple frontend that consumes a JSON API
 * CRUD operations and handling POST requests in Django
 
